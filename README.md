@@ -3,11 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadikonda&label=Profile%20views&color=0e75b6&style=flat" alt="adityadikonda" /> </p>
-
-- 🔭 I’m currently working on **a snake game using HTML, CSS and javascript**
-
-- 🌱 I’m currently learning **Javascript and java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Adityadikonda](https://github.com/Adityadikonda)
 
 - 📫 How to reach me **adityadikonda1711@gmail.com**
