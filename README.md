@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya dikonda</h1>
-<h3 align="center">3rd year Student of Artificial Intelligence and Data Science Engineering</h3>
+<h3 align="center">4th year Student of Artificial Intelligence and Data Science Engineering</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadikonda&label=Profile%20views&color=0e75b6&style=flat" alt="adityadikonda" /> </p>
